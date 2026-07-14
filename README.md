@@ -37,7 +37,7 @@ role: "Independent / Freelance Developer"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,git,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ai,python,html,css,git,figma,vscode&theme=dark" />
 
 </div>
 
