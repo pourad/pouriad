@@ -26,8 +26,6 @@
 ```yaml
 name: "Pouria"
 role: "Independent / Freelance Developer"
-location: "Iran"
-fun_fact: "..."
 ```
 
 - 🌱 Love learning technology.
@@ -39,7 +37,7 @@ fun_fact: "..."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,figma,vscode&theme=dark" />
 
 </div>
 
